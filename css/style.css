@@ -229,4 +229,7 @@ td i{
         -ms-flex-align: center;
         align-items: center;
     }
+    .dot_wrapper{
+        display: none;
+    }
 }
